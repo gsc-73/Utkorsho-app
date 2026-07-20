@@ -1,0 +1,12 @@
+{
+  "appId": "tech.utkorsho.app",
+  "appName": "Utkorsho",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.utkorsho.tech",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
